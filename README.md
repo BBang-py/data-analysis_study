@@ -1,6 +1,6 @@
 # sleep-data-analysis  
 
-목적: Pandas 기초와 탐색적 데이터 분석 연습  
+목적: Pandas 기초와 탐색적 데이터 분석  
 
 데이터: Sleep Health and Lifestyle Dataset(케글 데이터)
 
