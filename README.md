@@ -1,4 +1,4 @@
-# sleep-data-analysis  
+# data-analysis_study
 
 목적: Pandas 기초와 탐색적 데이터 분석  
 
